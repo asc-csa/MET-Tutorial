@@ -1,5 +1,6 @@
 # Données Phoenix MET - Tutoriel
 
+(English below) 
 ## Contexte 
 L'atterrisseur Phoenix a atterri sur Mars en 2008 où il est resté pendant 5 mois dans le but de mieux comprendre la géomorphologie, le climat et l'habitabilité de l'Arctique martien. Il s'agissait de la première mission à explorer le niveau du sol de la région arctique de Mars, et la première fois que le Canada se trouvait à la surface de Mars. La composante canadienne de l'atterrisseur Phoenix était l'instrument MET, utilisé pour suivre les conditions météorologiques quotidiennes et saisonnières et a été le premier à détecter de la neige sur Mars.
 Vous pouvez en apprendre davantage sur la mission générale à https://www.asc-csa.gc.ca/eng/astronomy/mars/phoenix/
@@ -16,8 +17,8 @@ Vous pouvez en apprendre davantage sur la mission générale à https://www.asc-
 ---
 
 # Phoenix MET Data Tutorial 
----
 
+(Le français précède)
 ## About 
 The Phoenix Lander arrived on Mars in 2008 where it stayed for 5 months with the goal of better understanding the geomorphology, climate, and habitability of the Martian arctic. It was the first mission to explore the ground level of the Arctic region of Mars, and Canada's first time on the Martian surface. The Canadian component of the Phoenix Lander was the MET Instrument, used to track daily & seasonal weather patterns and was the first to detect snow on Mars.
 You can learn more about the general mission at https://www.asc-csa.gc.ca/eng/astronomy/mars/phoenix/
