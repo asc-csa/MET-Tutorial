@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/cc3dbc54-561f-4226-94f5-bfa9f6ff67d3)
-Illustration of the Phoenix lander. (Credits: NASA JPL, University of Arizona)
+![image](https://github.com/user-attachments/assets/2ea1a349-ca78-45fa-b429-94fbbeada0bc)
+
+**Illustration of the Phoenix lander.** (Credits: NASA JPL)
 
 # Données Phoenix MET - Tutoriel
 
