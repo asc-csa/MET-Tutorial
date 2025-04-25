@@ -9,10 +9,10 @@
     <a href="#watchers">
         <img alt="Spectateurs sur Github | GitHub watchers" src="https://img.shields.io/github/watchers/asc-csa/MET-Tutorial">
     </a>
-    <a href="https://github.com/asc-csa/FUSE-Tutorial/commits/main">
+    <a href="https://github.com/asc-csa/MET-Tutorial/commits/main">
         <img alt="Dernier commit sur GitHub | GitHub last commit" src="https://img.shields.io/github/last-commit/asc-csa/MET-Tutorial">
     </a>
-    <a href="https://github.com/asc-csa/FUSE-Tutorial/graphs/contributors">
+    <a href="https://github.com/asc-csa/MET-Tutorial/graphs/contributors">
         <img alt="Contributeurs sur GitHub | GitHub contributors" src="https://img.shields.io/github/contributors/asc-csa/MET-Tutorial">
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=csa_asc">
