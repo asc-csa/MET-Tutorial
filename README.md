@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/2ea1a349-ca78-45fa-b429-94fbbeada0bc)
 
-**Illustration of the Phoenix lander.** (Credits: NASA JPL)
+*Phoenix’s 360-degree panorama of its landing site.* (Credits: NASA JPL)
 
 # Données Phoenix MET - Tutoriel
 
